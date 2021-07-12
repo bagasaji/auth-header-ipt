@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "auth-header": "^1.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "jsrsasign": "^10.3.0",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.7"
+  },
+  "name": "auth-header",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
